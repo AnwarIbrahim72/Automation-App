@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_wa web logo</name>
+   <tag></tag>
+   <elementGuidId>90b23e99-b34a-4da5-8832-8fa9d6e39802</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='top-of-page']/div/div/div/header/div/div/span/a/span/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;WhatsApp Main Page&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>f658444b-09d0-4b01-8618-645060a3dea8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>WhatsApp Main Page</value>
+      <webElementGuid>01d9240d-bda0-408b-a1bc-d45a7ec8ab8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://static.whatsapp.net/rsrc.php/ym/r/36B424nhiL4.svg</value>
+      <webElementGuid>7e373d7f-ae2d-454f-b427-dbc3741e9d29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-of-page&quot;)/div[@class=&quot;_2ywh _li _9kh2&quot;]/div[@class=&quot;_2y_d _9rxy&quot;]/div[@class=&quot;_9r_7 _9t33&quot;]/header[@class=&quot;_9tjr&quot;]/div[@class=&quot;_9tjs&quot;]/div[@class=&quot;_9tjt&quot;]/span[@class=&quot;_9tig&quot;]/a[@class=&quot;_9vcv&quot;]/span[@class=&quot;_advp _aeam&quot;]/img[1]</value>
+      <webElementGuid>9be891e0-4b75-41b9-a548-8daa6a981fe9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='top-of-page']/div/div/div/header/div/div/span/a/span/img</value>
+      <webElementGuid>c2539078-3749-43b5-8f73-ac285cbce81a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='WhatsApp Main Page']</value>
+      <webElementGuid>8048c269-ef19-4d50-9be1-0aa4cc0fc6ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>9c10a2a1-b451-4513-be6d-a9c8bfcf265c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'WhatsApp Main Page' and @src = 'https://static.whatsapp.net/rsrc.php/ym/r/36B424nhiL4.svg']</value>
+      <webElementGuid>65f3feda-4349-4533-a037-e28ecf95850c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
