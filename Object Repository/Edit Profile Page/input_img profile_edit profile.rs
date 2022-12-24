@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_img profile_edit profile</name>
+   <tag></tag>
+   <elementGuidId>6c2fc2f3-6510-40c8-aedb-ee101ad18fa7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input[type=&quot;file&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;container mt-5&quot;]/div[1]/avatar-image[1]/div[1]/input[1][count(. | //*[@type = 'file']) = count(//*[@type = 'file'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='file']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>9bf4d714-7c6c-4428-a33f-e9995931377d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>file</value>
+      <webElementGuid>b2cd0056-96d4-4fcb-a4af-b05c1b97a9d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>accept</name>
+      <type>Main</type>
+      <value>image/*</value>
+      <webElementGuid>557b9c53-5571-4c03-9ebf-5973ed0b0c6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;container mt-5&quot;]/div[1]/avatar-image[1]/div[1]/input[1]</value>
+      <webElementGuid>15602c8b-4515-432c-921b-f2f0aa2002cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='file']</value>
+      <webElementGuid>f3309745-0a90-41f9-b72d-e6713e7c23db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/avatar-image/div/input</value>
+      <webElementGuid>0367a3c6-fc4d-49a9-8554-c7409953b3a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>ea2b3f23-7e6b-438e-bd5d-b4c88a8a9278</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'file']</value>
+      <webElementGuid>85a844f0-436c-49ce-8ca1-cbf23d176902</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

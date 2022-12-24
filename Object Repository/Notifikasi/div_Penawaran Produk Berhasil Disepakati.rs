@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Penawaran Produk Berhasil Disepakati</name>
+   <tag></tag>
+   <elementGuidId>b3cbf8c5-670a-4df9-b9ce-a372e31b5663</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbarText']/ul/li[2]/div/div/div/div/div[2]/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.title.col-6</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2b012d1a-870b-4eb7-abee-af1ad34b4b41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title col-6</value>
+      <webElementGuid>180ea351-1c92-4f74-b270-43432bc48f7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Penawaran Produk Berhasil Disepakati</value>
+      <webElementGuid>82d13445-2858-4649-aa0e-70d327a8343b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbarText&quot;)/ul[@class=&quot;navbar-nav me-auto mb-2 mb-lg-0&quot;]/li[@class=&quot;dropdown show&quot;]/div[@class=&quot;dropdown-menu dropdown-menu-right p-2 show&quot;]/div[@class=&quot;flex-column row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;flex-column row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;title col-6&quot;]</value>
+      <webElementGuid>db2febdb-b961-41d6-aa36-4837fbf9493b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarText']/ul/li[2]/div/div/div/div/div[2]/div/div/div/div</value>
+      <webElementGuid>cd0c5ac6-bd92-41ba-b6c8-762a17eaf788</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buku Tulis'])[1]/preceding::div[2]</value>
+      <webElementGuid>9b6ecf75-f85e-4537-86f1-a7ba357e20d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 5.000,00'])[1]/preceding::div[3]</value>
+      <webElementGuid>77e7386e-12a8-4527-837e-8a1086e56baa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Penawaran Produk Berhasil Disepakati']/parent::*</value>
+      <webElementGuid>e3e54ea3-e369-44b2-b4ea-e97ee0cbf205</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]/div/div/div/div</value>
+      <webElementGuid>42df65db-66e7-434c-8d7b-c872f7bda32c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Penawaran Produk Berhasil Disepakati' or . = 'Penawaran Produk Berhasil Disepakati')]</value>
+      <webElementGuid>2b0da86b-d908-475a-8312-54de39f668eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

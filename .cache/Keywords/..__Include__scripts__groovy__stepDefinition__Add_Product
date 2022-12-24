@@ -1,0 +1,18 @@
+{
+<<<<<<< HEAD
+  "keywordFileContentHash": "F9E67E211BC7962CC1B546AE7A3E38DC",
+=======
+  "keywordFileContentHash": "A17A59F96848F519EB89CCBE95B0F11E",
+>>>>>>> 6df1e696579370e2c867c82a4bbb66a9a3182e64
+  "keywordClasses": [
+    {
+      "name": "stepDefinition.Add_Product",
+      "keywordMethods": []
+    },
+    {
+      "name": "stepDefinition.Add_Product",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

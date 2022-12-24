@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_Kategori Semua Product_daftarjualpage</name>
+   <tag></tag>
+   <elementGuidId>4b1ca14c-be8a-4bac-a0ea-60fa3b5fd0f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = ' Semua Product' or . = ' Semua Product')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//i[@type='button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>a869eb2a-c23d-451f-96b3-985193b3e801</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>70b2baaf-b3cf-422d-8940-b3a143c8caa8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>&quot;link&quot; active</value>
+      <webElementGuid>f0f64700-dc07-4a39-bb2d-9adfc3ca0c07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Semua Product</value>
+      <webElementGuid>ead473b1-09a6-4f33-bab7-0a09b5f53935</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;mt-4 pb-4 container&quot;]/div[@class=&quot;mt-4 row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;card category&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;py-2 text-decoration list-group list-group-flush&quot;]/button[@class=&quot;py-3 list-group-item list-group-item-action&quot;]/i[@class=&quot;&quot;link&quot; active&quot;]</value>
+      <webElementGuid>46672a6f-a3b7-4cbc-9608-d15ecdc70e3b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//i[@type='button']</value>
+      <webElementGuid>967ab092-127e-4238-89ee-8a31bb31c56b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[3]/div/div/div/div/button/i</value>
+      <webElementGuid>bd04ff72-e09f-4220-b377-e09d87a28904</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kategori'])[1]/following::i[1]</value>
+      <webElementGuid>eea78513-5251-4011-be83-5e9485bdb468</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/following::i[1]</value>
+      <webElementGuid>84fa6e30-f454-4426-8e0e-57620b8441d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Semua Product']/parent::*</value>
+      <webElementGuid>10d312f6-e337-43a4-9765-83478c1575a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>1e7c5c51-1a7e-4861-a584-fd43caba1b27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[@type = 'button' and (text() = ' Semua Product' or . = ' Semua Product')]</value>
+      <webElementGuid>5a927660-4c52-4431-99df-084bdc51df1d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

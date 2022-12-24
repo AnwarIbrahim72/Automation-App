@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "AA7117434B3E9BE2275D47ED7F4DC32C",
+  "keywordClasses": [
+    {
+      "name": "stepDefinition.EditProduct",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

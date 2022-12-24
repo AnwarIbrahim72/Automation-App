@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_hargaasli_detaildiminatipage</name>
+   <tag></tag>
+   <elementGuidId>5faf6afb-fb95-4e56-90f9-94f86e65a0ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[2]/div[2]/div[2]/h5[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h5</value>
+      <webElementGuid>53ad51e0-16a6-4808-827b-ae7946ea9b25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-title</value>
+      <webElementGuid>3a5d5f9f-b776-4e93-a2f1-16bcb482f1d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rp 13.000,00</value>
+      <webElementGuid>c45bf20d-de73-478d-a2b1-da396fae84da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;container&quot;]/div[@class=&quot;row mt-5&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;row mt-3&quot;]/div[@class=&quot;col-md-10&quot;]/h5[@class=&quot;card-title&quot;]</value>
+      <webElementGuid>ebe2feb5-2437-4f07-bd10-5406ff83b44f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div[2]/div[2]/h5[2]</value>
+      <webElementGuid>a496645c-444b-4da6-9f2c-ca22bd28f898</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Planet'])[2]/following::h5[1]</value>
+      <webElementGuid>238742ee-45f5-4a90-ac63-b79c36c5d9b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penawaran produk'])[1]/following::h5[2]</value>
+      <webElementGuid>748699c7-d7c6-4301-b431-4791a37aab33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ditawar Rp 1.000,00'])[2]/preceding::h5[1]</value>
+      <webElementGuid>89023964-c142-4b70-aea3-95edb7a8f72d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tolak'])[1]/preceding::h5[2]</value>
+      <webElementGuid>3b32f4a2-3980-49d7-adbf-bc3251ac1339</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h5[2]</value>
+      <webElementGuid>4b4afade-4326-4231-8790-fd76f5a67a4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h5[(text() = 'Rp 13.000,00' or . = 'Rp 13.000,00')]</value>
+      <webElementGuid>b1bacbf0-af9e-47d1-b631-e9bf71bc72af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

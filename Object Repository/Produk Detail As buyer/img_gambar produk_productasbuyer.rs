@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_gambar produk_productasbuyer</name>
+   <tag></tag>
+   <elementGuidId>825b421d-1e56-4ea9-8e97-357c730d5401</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[2]/div/div[2]/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.d-block.w-100.h-100</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>6f0b80c0-803f-4de4-853f-735ca70bd530</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>http://res.cloudinary.com/dgaeremr2/image/upload/v1668690925/Products-Customers/fnytqokrhds55izhlmlq.png</value>
+      <webElementGuid>6795105c-698b-4159-83f6-ce54ed1d4815</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-block w-100 h-100</value>
+      <webElementGuid>61dad96f-9c38-4642-9267-585f4faabded</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Gambar produk</value>
+      <webElementGuid>7a49a7d3-fd60-4a81-b211-d5c07c16009b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;container pb-5&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;carousel slide carousel-fade&quot;]/div[@class=&quot;carousel-inner&quot;]/div[@class=&quot;active carousel-item&quot;]/img[@class=&quot;d-block w-100 h-100&quot;]</value>
+      <webElementGuid>b724ea37-2a84-485b-9367-4d6fe823040a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div/div[2]/div/img</value>
+      <webElementGuid>0c6d3302-a513-4ef1-be0c-cb2e3a4f6eb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Gambar produk']</value>
+      <webElementGuid>9374c62b-17d5-4743-b471-cd92047b6f57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/img</value>
+      <webElementGuid>7a499d73-569a-40f1-bfcd-7b8ee09db08c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'http://res.cloudinary.com/dgaeremr2/image/upload/v1668690925/Products-Customers/fnytqokrhds55izhlmlq.png' and @alt = 'Gambar produk']</value>
+      <webElementGuid>4ca3dba9-b47b-48ac-9d66-7316df9f628e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

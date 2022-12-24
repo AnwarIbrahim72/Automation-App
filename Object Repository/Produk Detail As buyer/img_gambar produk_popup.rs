@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_gambar produk_popup</name>
+   <tag></tag>
+   <elementGuidId>418e7536-494a-425b-9694-c8545d6ab299</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Product']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.card-body > img.d-block</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>15a912ce-898d-447e-a638-151f4eeb3766</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>http://res.cloudinary.com/dgaeremr2/image/upload/v1668690925/Products-Customers/fnytqokrhds55izhlmlq.png</value>
+      <webElementGuid>23e5aece-89d8-42df-8cb4-e2316f164308</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-block</value>
+      <webElementGuid>56c8d3c1-9b51-4b72-a827-d1964402201c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Product</value>
+      <webElementGuid>20028360-6efe-4afd-93c8-73587cc36bdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;modal-open&quot;]/div[@class=&quot;fade modal show&quot;]/div[@class=&quot;modal-dialog modal-sm modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;card product&quot;]/div[@class=&quot;card-body&quot;]/img[@class=&quot;d-block&quot;]</value>
+      <webElementGuid>c9e69004-a03d-4c22-88b2-c326f24424c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Product']</value>
+      <webElementGuid>ce1d623f-b0a9-45a5-9da8-3b8a57e716f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div[2]/div/div/img</value>
+      <webElementGuid>ac8b1732-49b2-4f6b-a6e1-bcb5244081d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'http://res.cloudinary.com/dgaeremr2/image/upload/v1668690925/Products-Customers/fnytqokrhds55izhlmlq.png' and @alt = 'Product']</value>
+      <webElementGuid>a4436cc7-94e9-4fc3-8dc7-5a114fbc0aed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
